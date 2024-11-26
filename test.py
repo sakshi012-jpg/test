@@ -1,11 +1,11 @@
 # Simple Python Code Example
 
 # Function definition
-def greet(name):
-    return f"Hello, {name}!"
+def greet(Name):
+    return f"Hello, {Name}!"
 
 # Variable assignment
-name = "Alice"
+Name = "Alice"
 
 # Calling the function and printing the result
-print(greet(name))
+print(greet(Name))
